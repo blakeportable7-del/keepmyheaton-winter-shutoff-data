@@ -1,0 +1,38 @@
+{
+  "upload_type": "dataset",
+  "title": "Winter Utility Shutoff Protections by U.S. State, 2026-27 (Keep My Heat On)",
+  "description": "<p>This dataset covers winter protections against residential gas and electric shutoffs for nonpayment in 11 U.S. states for the 2026-27 heating season: the dates, who is covered and the official rule, with heating assistance (LIHEAP) timing.</p><p>Each row was checked individually against official sources only, and every fact carries its official source and the date it was checked. Where an official page does not state something, the dataset says so rather than guessing. Rules change: check the official source in each row before relying on a value.</p><p>Published by Keep My Heat On (<a href=\"https://keepmyheaton.org/\">https://keepmyheaton.org/</a>), an independent public resource run by Willow Creek Group LLC, St. Clairsville, Ohio. The live, maintained version is at <a href=\"https://keepmyheaton.org/winter-2026/\">https://keepmyheaton.org/winter-2026/</a>.</p>",
+  "creators": [
+    {
+      "name": "Willow Creek Group LLC"
+    },
+    {
+      "name": "Porterfield, Blake"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "keywords": [
+    "utility disconnection",
+    "winter moratorium",
+    "shutoff protection",
+    "energy insecurity",
+    "LIHEAP",
+    "public utility commission",
+    "heating assistance",
+    "United States"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://keepmyheaton.org/winter-2026/",
+      "relation": "isSupplementTo",
+      "resource_type": "other"
+    },
+    {
+      "identifier": "https://keepmyheaton.org/",
+      "relation": "isPartOf",
+      "resource_type": "other"
+    }
+  ]
+}
